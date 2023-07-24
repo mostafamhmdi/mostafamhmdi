@@ -28,9 +28,9 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: I’m working as a Data Analyst to find out valuable information from raw data.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am studing computer engineering too I hope to do some research about AI in future.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I'm not a good programmer I am a good problem solver.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamhmdi/)
 
@@ -49,3 +49,11 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
