@@ -51,6 +51,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="60" height="60"/>&nbsp;
 </div>
 
 ---
