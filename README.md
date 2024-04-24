@@ -43,12 +43,16 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-dark.svg" title="numpy" alt="numpy" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-dark.svg" title="tensorflow" alt="tensorflow" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" title="power-bi" alt="power-bi" width="60" height="60"/>&nbsp;
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" title="scikit-learn" alt="scikit-learn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="scikit-learn" alt="scikit-learn" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" title="matplotlib" alt="matplotlib" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AiScript-Dark.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AiScript-Dark.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
 
 ---
