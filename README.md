@@ -24,11 +24,11 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-- :telescope: I’m working as a Data Analyst to find out valuable information from raw data.
+- :telescope: As a data scientist, I leverage advanced analytics and machine learning algorithms to extract actionable insights and drive data-informed decision-making processes.
 
-- :seedling: I am studing computer engineering too I hope to do some research about AI in future.
+- :seedling: I am studying computer engineering too I hope to do some research about AI in the future.
 
 - :zap: I'm not a good programmer I am a good problem solver.
 
@@ -49,8 +49,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AiScript-Dark.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AiScript-Dark.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ai-Dark.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
