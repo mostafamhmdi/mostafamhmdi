@@ -57,7 +57,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafamhmdi&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
