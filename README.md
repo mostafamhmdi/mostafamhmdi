@@ -58,9 +58,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafamhmdi&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="coffee" align="center"  width="200" height="200">
   <a href="https://www.coffeebede.com/mostafamhmdi">
