@@ -64,7 +64,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 <br>
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafamhmdi&show_icons=true&theme=highcontrast&width=400)
+[![Mostafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=mostafamhmdi)](https://github.com/stats-organization/github-stats-extended)
 
 
 
