@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/mostafa-mohammadii/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/mostafa_mhammadi/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://www.kaggle.com/mostafamohammadi1">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
@@ -16,6 +13,8 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamhmdi&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 
 ---
@@ -35,6 +34,45 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamhmdi/)
 
 ---
+
+### :man_technologist: About Me
+Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+
+- :telescope: I work on **Persian NLP**: fine-tuning embedding models, clustering and semantic search over large-scale social-media data, and LLM-verified detection pipelines.
+
+- :briefcase: AI Engineer (R&D) at **IranDoc**, where I build NLP research projects end to end, from idea to working pipeline.
+
+- :mortar_board: M.Sc. student in AI (Audio Engineering) at IRIB University, exploring speech-driven and multimodal models. Previously designed ML courses at **Quera** (Image Processing and Recommender Systems Colleges).
+
+- :zap: I care less about writing clever code and more about solving the right problem well.
+
+---
+
+### :hammer_and_wrench: Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### :rocket: Featured Work
+- [**event-recognition**](https://github.com/mostafamhmdi/event-recognition): detects unexpected events and predicts announced ones from Persian social media, using embedding clustering and LLM verification.
+- [**bge-persian**](https://huggingface.co/mostafamhmdi/bge-persian): bge-m3 fine-tuned for Persian, on Hugging Face.
+- [**persian-Wav2Lip**](https://github.com/mostafamhmdi/persian-Wav2Lip): Wav2Lip adapted to Persian with a frozen Persian wav2vec2 audio encoder.
+
+---
+
+### :seedling: Currently
+Exploring multimodal emotion recognition in conversation for Persian, and building LLM proof-of-concept apps.
+
+---
+
+### :mailbox: Reach Me
+[![LinkedIn Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamhmdi/)
+[![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/mostafamhmdi)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -57,17 +95,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### :fire: My Stats :
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=highcontrast&width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
 [![Mostafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=mostafamhmdi)](https://github.com/stats-organization/github-stats-extended)
-
-
-
 
 
 
