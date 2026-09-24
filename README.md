@@ -16,25 +16,6 @@
 
 
 
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpuNnI5eW8yb2M5YmM4aXMzN2lnZjJiNG9tanh1aTg3cTV2cGkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x4unLoM3hApc2Cw5kO/giphy.gif" width="600" height="300"/>
-</div>
-
-### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-
-- :telescope: As a data scientist, I leverage advanced analytics and machine learning algorithms to extract actionable insights and drive data-informed decision-making processes.
-
-- :seedling: I am studying computer engineering too I hope to do some research about AI in the future.
-
-- :zap: I'm not a good programmer I am a good problem solver.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamhmdi/)
-
----
-
 ### :man_technologist: About Me
 Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
@@ -52,51 +33,38 @@ Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.c
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### :hammer_and_wrench: Languages and Tools
+
+**Languages & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Machine Learning & AI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+
+**Tools & Platforms**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### :rocket: Featured Work
-- [**event-recognition**](https://github.com/mostafamhmdi/event-recognition): detects unexpected events and predicts announced ones from Persian social media, using embedding clustering and LLM verification.
-- [**bge-persian**](https://huggingface.co/mostafamhmdi/bge-persian): bge-m3 fine-tuned for Persian, on Hugging Face.
-- [**persian-Wav2Lip**](https://github.com/mostafamhmdi/persian-Wav2Lip): Wav2Lip adapted to Persian with a frozen Persian wav2vec2 audio encoder.
-
----
-
-### :seedling: Currently
-Exploring multimodal emotion recognition in conversation for Persian, and building LLM proof-of-concept apps.
-
----
-
-### :mailbox: Reach Me
-[![LinkedIn Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamhmdi/)
-[![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/mostafamhmdi)
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-dark.svg" title="numpy" alt="numpy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-dark.svg" title="tensorflow" alt="tensorflow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" title="power-bi" alt="power-bi" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="scikit-learn" alt="scikit-learn" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" title="matplotlib" alt="matplotlib" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="AI" alt="AI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="60" height="60"/>&nbsp;
-</div>
-
----
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
