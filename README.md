@@ -38,13 +38,17 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :man_technologist: About Me
 Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-- :telescope: I work on **Persian NLP**: fine-tuning embedding models, clustering and semantic search over large-scale social-media data, and LLM-verified detection pipelines.
+- :telescope: With 3+ years of hands-on experience, I turn messy data and open-ended problems into working AI solutions, from the first idea and architecture all the way to deployment and evaluation.
 
-- :briefcase: AI Engineer (R&D) at **IranDoc**, where I build NLP research projects end to end, from idea to working pipeline.
+- :brain: My work spans machine learning, deep learning, NLP, LLM applications, and time-series forecasting. I'm just as comfortable digging into data and statistics as building full pipelines around them.
 
-- :mortar_board: M.Sc. student in AI (Audio Engineering) at IRIB University, exploring speech-driven and multimodal models. Previously designed ML courses at **Quera** (Image Processing and Recommender Systems Colleges).
+- :rocket: I've worked across research institutes, startups, and education, where I led projects independently, translated research ideas into robust systems, and delivered practical results.
 
-- :zap: I care less about writing clever code and more about solving the right problem well.
+- :books: I love sharing what I know. I've designed advanced data science courses, built contest problems, and mentored learners along the way.
+
+- :mortar_board: Currently pursuing a Master's degree in AI (Audio Engineering), exploring how sound, language, and vision can come together in multimodal models.
+
+- :zap: I'm a problem solver at heart. Give me a hard problem and I'll find a way through it.
 
 ---
 
