@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZzb2o3c200NzhyMGc3dXY5YnJldWViemhzODd6ODA3ZXF5b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width='450'/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZzb2o3c200NzhyMGc3dXY5YnJldWViemhzODd6ODA3ZXF5b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" alt="Header animation" width="450"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mostafa-mohammadii/">
@@ -11,15 +11,15 @@
 </div>
 
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafamhmdi&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mostafamhmdi&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpuNnI5eW8yb2M5YmM4aXMzN2lnZjJiNG9tanh1aTg3cTV2cGkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x4unLoM3hApc2Cw5kO/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpuNnI5eW8yb2M5YmM4aXMzN2lnZjJiNG9tanh1aTg3cTV2cGkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x4unLoM3hApc2Cw5kO/giphy.gif" alt="Animation" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me
-Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat coding" width="30"/> from Iran.
 
 - :telescope: With 3+ years of hands-on experience, I turn messy data and open-ended problems into working AI solutions, from the first idea and architecture all the way to deployment and evaluation.
 
@@ -72,13 +72,12 @@ Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.c
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafamhmdi&theme=chartreuse-dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamhmdi&layout=compact&theme=highcontrast&width=400)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br/>
+
 [![Mostafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=mostafamhmdi)](https://github.com/stats-organization/github-stats-extended)
 
-
-
-
-<div id="coffee" align="center"  width="200" height="200">
+<div id="coffee" align="center">
   <a href="https://www.coffeebede.com/mostafamhmdi">
-  <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200" height="200" /></a>
+    <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy me a coffee" width="200" height="200"/>
+  </a>
 </div>
