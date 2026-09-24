@@ -13,7 +13,7 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamhmdi&style=flat-square&color=blue" alt=""/>
 </div>
-گ
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpuNnI5eW8yb2M5YmM4aXMzN2lnZjJiNG9tanh1aTg3cTV2cGkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x4unLoM3hApc2Cw5kO/giphy.gif" width="600" height="300"/>
 </div>
