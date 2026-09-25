@@ -21,15 +21,12 @@
 ### :man_technologist: About Me
 Hi, I'm Mostafa, an AI Engineer & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat coding" width="30"/> from Iran.
 
-- :telescope: With 3+ years of hands-on experience, I turn messy data and open-ended problems into working AI solutions, from the first idea and architecture all the way to deployment and evaluation.
 
 - :brain: My work spans machine learning, deep learning, NLP, LLM applications, and time-series forecasting. I'm just as comfortable digging into data and statistics as building full pipelines around them.
 
 - :rocket: I've worked across research institutes, startups, and education, where I led projects independently, translated research ideas into robust systems, and delivered practical results.
 
 - :books: I love sharing what I know. I've designed advanced data science courses, built contest problems, and mentored learners along the way.
-
-- :mortar_board: Currently pursuing a Master's degree in AI (Audio Engineering), exploring how sound, language, and vision can come together in multimodal models.
 
 - :zap: I'm a problem solver at heart. Give me a hard problem and I'll find a way through it.
 
